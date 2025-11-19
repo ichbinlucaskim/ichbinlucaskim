@@ -36,13 +36,6 @@
 <br/>
 
 
-<br />
-
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ichbinlucaskim&show_icons=true">
-</div>
-
-
 
 
 <!--
