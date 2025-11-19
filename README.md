@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+
+<br/>
+
 ## Tech Stack
 
 ### Languages
@@ -30,6 +34,13 @@
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
 
 <br/>
+
+
+<br />
+
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ichbinlucaskim&show_icons=true">
+</div>
 
 
 
