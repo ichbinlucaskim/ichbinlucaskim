@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm Lucas Kim</h1>
+  <h1>Hi, I'm Lucas Kim 👋</h1>
   <p>
     <b>Software Engineer focusing on Backend Infrastructure & Distributed Systems</b>
   </p>
@@ -30,10 +30,10 @@
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
-### 📊 Data & Engineering Tools
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+### ⚙️ DevOps, CI/CD & Tools
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 
 </div>
 
