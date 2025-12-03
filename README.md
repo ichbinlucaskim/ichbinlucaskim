@@ -43,10 +43,10 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| ** [velocity-rate-limiter](https://github.com/ichbinlucaskim/velocity-rate-limiter)** | `Go` `Redis` `Distributed` | **High-performance API Rate Limiter.** Designed to handle high concurrency using Token Bucket algorithm in a distributed environment. |
-| ** [picopay-payment-engine](https://github.com/ichbinlucaskim/picopay-payment-engine)** | `Python` `PostgreSQL` `Docker` | **Idempotent Payment Gateway.** Ensures ACID compliance and prevents double-spending in financial transactions. |
-| ** [titan-distributed-kv](https://github.com/ichbinlucaskim/titan-distributed-kv)** | `Go` `gRPC` `Sharding` | **Distributed Key-Value Store.** Implements database internals like Sharding, Replication, and WAL(Write Ahead Log). |
-| ** [nexus-messaging-backend](https://github.com/ichbinlucaskim/nexus-messaging-backend)** | `Go` `Kafka` `WebSockets` | **Scalable Real-Time Chat Engine.** Built for high-throughput event streaming and message delivery using Pub/Sub pattern. |
+| **[velocity-rate-limiter](https://github.com/ichbinlucaskim/velocity-rate-limiter)** | `Go` `Redis` `Distributed` | **High-performance API Rate Limiter.** Designed to handle high concurrency using Token Bucket algorithm in a distributed environment. |
+| **[picopay-payment-engine](https://github.com/ichbinlucaskim/picopay-payment-engine)** | `Python` `PostgreSQL` `Docker` | **Idempotent Payment Gateway.** Ensures ACID compliance and prevents double-spending in financial transactions. |
+| **[titan-distributed-kv](https://github.com/ichbinlucaskim/titan-distributed-kv)** | `Go` `gRPC` `Sharding` | **Distributed Key-Value Store.** Implements database internals like Sharding, Replication, and WAL(Write Ahead Log). |
+| **[nexus-messaging-backend](https://github.com/ichbinlucaskim/nexus-messaging-backend)** | `Go` `Kafka` `WebSockets` | **Scalable Real-Time Chat Engine.** Built for high-throughput event streaming and message delivery using Pub/Sub pattern. |
 
 <br/>
 
