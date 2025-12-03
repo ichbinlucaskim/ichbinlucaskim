@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=func+Lucas(Code+Engineer)+%7B;return+%22Scalable+Systems%22;%7D" alt="Typing SVG" />
-  </a>
+  <h1>Hi, I'm Lucas Kim</h1>
+  <h3>Backend System Engineer | Distributed Systems Expert</h3>
+  <br/>
 </div>
 
 <br/>
