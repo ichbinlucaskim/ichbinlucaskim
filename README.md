@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Lucas Kim</h1>
-  <h3>Backend System Engineer | Distributed Systems Expert</h3>
+  <h3>Backend Engineer | Scalable Architecture & Infrastructure</h3>
   <br/>
 </div>
 
