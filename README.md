@@ -39,7 +39,7 @@
 
 <br/>
 
-## 📌 Featured Projects (System & Backend)
+## Featured Projects (System & Backend)
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -50,6 +50,6 @@
 
 <br/>
 
-## 📫 Contact
+## Contact
 - **Email**: lkim60@lion.lmu.edu
 - **LinkedIn**: https://www.linkedin.com/in/ichbinlucas/
