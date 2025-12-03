@@ -1,12 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Lucas Kim 👋</h1>
-  <p>
-    <b>Software Engineer focusing on Backend Infrastructure & Distributed Systems</b>
-  </p>
-  <p>
-    Building scalable, high-concurrency systems with <b>Go</b> and <b>Python</b>.<br>
-    Deeply interested in System Design, Database Internals, and Cloud Architecture.
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lucas+Kim;Backend+System+Engineer;Building+Scalable+Architecture" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
