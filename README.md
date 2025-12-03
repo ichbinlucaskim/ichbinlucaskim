@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Lucas Kim 👋</h1>
+  <h1>I'm Lucas Kim</h1>
   <p>
     <b>Software Engineer focusing on Backend Infrastructure & Distributed Systems</b>
   </p>
@@ -12,6 +12,7 @@
 <br/>
 
 ## 🛠 Tech Stack
+<div align="center">
 
 ### 🚀 Core Backend & Systems
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
@@ -33,6 +34,8 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+
+</div>
 
 <br/>
 
