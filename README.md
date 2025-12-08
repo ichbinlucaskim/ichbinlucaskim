@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Lucas Kim</h1>
+  <h1>Hi, I'm Lucas</h1>
   <h3>Backend Engineer | Distributed Systems & Cloud Infrastructure</h3>
   <br/>
 </div>
