@@ -38,8 +38,8 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🛡️ [Velocity: Distributed Rate Limiter](https://github.com/ichbinlucaskim/velocity-rate-limiter)** | `Go` `Redis` `Distributed` | **High-performance API Rate Limiter.** Handles high concurrency high concurrency using Token Bucket algorithm in a distributed environment. |
 | **💳 [Picopay: Payment engine](https://github.com/ichbinlucaskim/picopay-payment-engine)** | `Python` `PostgreSQL` `Docker` | **Idempotent Payment Gateway.** Ensures ACID compliance and prevents double-spending in financial transactions. |
+| **🛡️ [Velocity: Distributed Rate Limiter](https://github.com/ichbinlucaskim/velocity-rate-limiter)** | `Go` `Redis` `Distributed` | **High-performance API Rate Limiter.** Handles high concurrency high concurrency using Token Bucket algorithm in a distributed environment. |
 | **🗄️ [Titan: Distributed kv](https://github.com/ichbinlucaskim/titan-distributed-kv)** | `Go` `gRPC` `Sharding` | **Distributed Key-Value Store.** Implements database internals like Sharding, Replication, and WAL(Write Ahead Log). |
 | **💬 [Nexus: Messaging backend](https://github.com/ichbinlucaskim/nexus-messaging-backend)** | `Go` `Kafka` `WebSockets` | **Scalable Real-Time Chat Engine.** Built for high-throughput event streaming and message delivery using Pub/Sub pattern. |
 
