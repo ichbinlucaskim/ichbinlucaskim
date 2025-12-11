@@ -38,10 +38,10 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **💳 [Picopay: Payment engine](https://github.com/ichbinlucaskim/picopay-payment-engine)** | `Python` `PostgreSQL` `Docker` | **Idempotent Payment Gateway.** Ensures ACID compliance and prevents double-spending in financial transactions. |
-| **🛡️ [Velocity: Distributed Rate Limiter](https://github.com/ichbinlucaskim/velocity-rate-limiter)** | `Go` `Redis` `Distributed` | **High-performance API Rate Limiter.** Handles high concurrency high concurrency using Token Bucket algorithm in a distributed environment. |
-| **🗄️ [Titan: Distributed kv](https://github.com/ichbinlucaskim/titan-distributed-kv)** | `Go` `gRPC` `Sharding` | **Distributed Key-Value Store.** Implements database internals like Sharding, Replication, and WAL(Write Ahead Log). |
-| **💬 [Nexus: Messaging backend](https://github.com/ichbinlucaskim/nexus-messaging-backend)** | `Go` `Kafka` `WebSockets` | **Scalable Real-Time Chat Engine.** Built for high-throughput event streaming and message delivery using Pub/Sub pattern. |
+| **💳 [Picopay: Payment Engine](https://github.com/ichbinlucaskim/picopay-payment-engine)** | `Python` `PostgreSQL` `Docker` | **Financial Transaction System.** Implements **Idempotency** & **ACID** compliance using **Pessimistic Locking** to prevent double-spending. Features **Dual-Write** pattern with Redis. |
+| **🛡️ [Velocity: Distributed Rate Limiter](https://github.com/ichbinlucaskim/velocity-rate-limiter)** | `Go` `Redis` `Distributed` | **High-performance API Rate Limiter.** Handles high concurrency using **Token Bucket** algorithm and **Redis Lua Scripts** in a distributed environment. |
+| **🗄️ [Titan: Distributed KV Store](https://github.com/ichbinlucaskim/titan-distributed-kv)** | `Go` `gRPC` `Sharding` | **Distributed Key-Value Storage.** Implements core database internals including **Sharding**, **Replication**, and **WAL** (Write Ahead Log). |
+| **💬 [Nexus: Messaging Backend](https://github.com/ichbinlucaskim/nexus-messaging-backend)** | `Go` `Kafka` `WebSockets` | **Scalable Real-Time Chat Engine.** Built for high-throughput event streaming and reliable message delivery using **Pub/Sub** pattern. |
 
 <br/>
 
