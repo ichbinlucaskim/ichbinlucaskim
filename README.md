@@ -38,9 +38,9 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **💳 [Picopay: Payment Engine](https://github.com/ichbinlucaskim/picopay-payment-engine)** | `Python` `PostgreSQL` `Docker` | **Financial Transaction System.** Implements **Idempotency** & **ACID** compliance using **Pessimistic Locking** to prevent double-spending. Features **Dual-Write** pattern with Redis. |
-| **🛡️ [Velocity: Distributed Rate Limiter](https://github.com/ichbinlucaskim/velocity-rate-limiter)** | `Go` `Redis` `Distributed` | **High-performance API Rate Limiter.** Handles high concurrency using **Token Bucket** algorithm and **Redis Lua Scripts** in a distributed environment. |
 | **🗄️ [Titan: Distributed KV Store](https://github.com/ichbinlucaskim/titan-distributed-kv)** | `Go` `gRPC` `Sharding` | **Distributed Key-Value Storage.** Implements core database internals including **Sharding**, **Replication**, and **WAL** (Write Ahead Log). |
+| **🛡️ [Velocity: Distributed Rate Limiter](https://github.com/ichbinlucaskim/velocity-rate-limiter)** | `Go` `Redis` `Distributed` | **High-performance API Rate Limiter.** Handles high concurrency using **Token Bucket** algorithm and **Redis Lua Scripts** in a distributed environment. |
+| **💳 [Picopay: Payment Engine](https://github.com/ichbinlucaskim/picopay-payment-engine)** | `Python` `PostgreSQL` `Docker` | **Financial Transaction System.** Implements **Idempotency** & **ACID** compliance using **Pessimistic Locking** to prevent double-spending. Features **Dual-Write** pattern with Redis. |
 
 
 <br/>
