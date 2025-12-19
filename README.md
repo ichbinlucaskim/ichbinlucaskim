@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Lucas</h1>
   <h3>Backend & Infrastructure Engineer | Building the Engine Room for AI</h3>
-  <p>
-    <em>"Generative AI is the new application layer, but robust Data Infrastructure is the new Operating System."</em>
-  </p>
   
 </div>
 
