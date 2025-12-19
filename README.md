@@ -5,12 +5,6 @@
     <em>"Generative AI is the new application layer, but robust Data Infrastructure is the new Operating System."</em>
   </p>
   
-  <a href="https://www.linkedin.com/in/ichbinlucas/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lkim60@lion.lmu.edu">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </div>
 
 <br/>
