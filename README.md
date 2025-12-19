@@ -17,7 +17,7 @@
 
 ## 🏗 Engineering Philosophy
 > **I engineer trust in the era of AI.**
-> > My focus is on the "physics of data", building high-throughput pipelines that bridge the gap between rigorous distributed systems (**SQL/ACID**) and high-dimensional intelligence (**Vector/Embeddings**). I don't just call APIs; I architect the systems that scale them.
+> My focus is on the "physics of data", building high-throughput pipelines that bridge the gap between rigorous distributed systems (**SQL/ACID**) and high-dimensional intelligence (**Vector/Embeddings**). I don't just call APIs; I architect the systems that scale them.
 
 <br/>
 
@@ -44,18 +44,20 @@
 
 </div>
 
-<br/>
+<!-- <br/>
 
-## 📌 Featured Projects (AI Infra & Systems)
+## 📌 Featured Projects (AI & Data Infrastructure)
 
-| Project | Type | Tech Stack | Description |
+| Project | Domain | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **📈 [Alpha-RAG](https://github.com/ichbinlucaskim/sec-analyzer)** <br> *(formerly sec-analyzer)* | **AI Data Pipeline** | `Go` `Kafka` `Pinecone` `Python` | **Financial Intelligence RAG Pipeline.** <br> • Engineered a hybrid retrieval system merging **SQL (Financial Metrics)** with **Vector Search (SEC Filings)**. <br> • Built a high-throughput ingestion pipeline using **Go & Kafka** to stream data into Vector DB without latency. <br> • Solves the "Hallucination" problem by grounding LLM responses in real-time SQL data. |
-| **🗄️ [Titan](https://github.com/ichbinlucaskim/titan-distributed-kv)** | **Distributed System** | `Go` `gRPC` `Raft` `Sharding` | **Distributed Key-Value Store for AI State.** <br> • Implements core primitives: **Sharding, Replication, and WAL (Write Ahead Log)** from scratch. <br> • Demonstrates deep understanding of consistency models required for scalable AI infrastructure. |
-| **💳 [Picopay](https://github.com/ichbinlucaskim/picopay-payment-engine)** | **FinTech Engine** | `Python` `Postgres` `Docker` | **Fault-Tolerant Payment Engine.** <br> • Ensures **ACID compliance** and financial correctness using **Idempotency Keys** and Pessimistic Locking. <br> • Designed to handle double-spending prevention in high-concurrency environments. |
+| **📈 [Alpha-RAG](https://github.com/ichbinlucaskim/alpha-rag)** <br> *(Active Development)* | **Financial AI Pipeline** | `Go` `Kafka` `Pinecone` `LangChain` | **Hybrid Financial Intelligence System (SQL + Vector).** <br> • Engineered a retrieval system that eliminates LLM hallucinations by merging **real-time SQL financial data** with **unstructured SEC filings**. <br> • Built a low-latency ingestion pipeline using **Go & Kafka**, optimizing for high-throughput vector indexing. |
+| **🛡️ [StreamGuard](https://github.com/ichbinlucaskim/stream-guard)** <br> *(Architecture Design)* | **Real-Time Streaming** | `Spark` `Kafka` `Redis` `Go` | **Real-time Fraud Detection Pipeline.** <br> • Designed a "Data-in-Motion" architecture to detect anomalies in payment streams instantly. <br> • Focuses on **Backpressure Handling** and **Windowed Aggregations** to process high-velocity logs before vectorization. |
+| **🖼️ [Pixel-Index](https://github.com/ichbinlucaskim/pixel-index)** <br> *(Architecture Design)* | **Multi-Modal Search** | `PyTorch` `Weaviate` `AWS S3` | **High-Scale Image-to-Vector Search Engine.** <br> • Implements **Multi-modal Indexing** (Text-to-Image) using CLIP models for semantic product search. <br> • Optimized GPU resource usage via **Batch Processing** and efficient vector storage strategies. | -->
 
-<br/>
+
+
+<!-- <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ichbinlucaskim&show_icons=true&theme=gotham&hide_border=true" alt="Lucas's Stats" />
-</div>
+</div> -->
