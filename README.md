@@ -16,7 +16,8 @@
 <br/>
 
 ## 🏗 Engineering Philosophy
-> **I engineer trust in the era of AI.** > My focus is on the "physics of data"—building high-throughput pipelines that bridge the gap between rigorous distributed systems (**SQL/ACID**) and high-dimensional intelligence (**Vector/Embeddings**). I don't just call APIs; I architect the systems that scale them.
+> **I engineer trust in the era of AI.**
+> > My focus is on the "physics of data", building high-throughput pipelines that bridge the gap between rigorous distributed systems (**SQL/ACID**) and high-dimensional intelligence (**Vector/Embeddings**). I don't just call APIs; I architect the systems that scale them.
 
 <br/>
 
