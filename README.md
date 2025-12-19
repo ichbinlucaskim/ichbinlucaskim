@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Lucas</h1>
-  <h3>Backend & Infrastructure Engineer | Building the Engine Room for AI</h3>
+  <h3>Data Infrastructure Engineer</h3>
   <p>
     <em>The New ETL is 'Data-to-Vector'.</em>
   </p>
