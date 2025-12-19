@@ -1,14 +1,15 @@
 <div align="center">
   <h1>Hi, I'm Lucas</h1>
   <h3>Backend & Infrastructure Engineer | Building the Engine Room for AI</h3>
+  <p>
+    <em>The New ETL is 'Data-to-Vector'.</em>
+  </p>
   
 </div>
 
 <br/>
 
 ## 🏗 Engineering Philosophy
-> **I engineer trust in the era of AI.**
-
 > My focus is on the "physics of data", building high-throughput pipelines that bridge the gap between rigorous distributed systems (**SQL/ACID**) and high-dimensional intelligence (**Vector/Embeddings**).
 
 <br/>
