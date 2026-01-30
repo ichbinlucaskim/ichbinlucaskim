@@ -24,6 +24,7 @@
 
 ### 🚀 High-Performance Eval & Infra
 <img src="https://img.shields.io/badge/Ragas-FF6F61?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRLHF-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=flat&logo=ai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arize_Phoenix-000000?style=flat&logo=opentelemetry&logoColor=white"/>
 
