@@ -2,14 +2,14 @@
   <h1>Hi, I'm Lucas</h1>
   <h3>Agentic AI Architect</h3>
   <p>
-    <em>'Context-to-Action'. Reliability & Safety > Functionality.</em>
+    <em>Reliability & Safety > Functionality.</em>
   </p>
 </div>
 
 <br/>
 
 ## 🤖 Engineering Philosophy
-> I focus on the "Logic of Autonomy": building high-throughput systems that bridge the gap between rigorous distributed systems (ACID) and autonomous decision-making. I do not just move data. I engineer the reliable "Bunker" environments where AI can reason, act, and be mathematically verified.
+> I bridge the gap between AI reasoning and production reality by building reliable, high‑throughput agentic workflows (LangGraph, NeMo Guardrails, Ragas) that plan, use tools, and solve real problems at scale.
 
 <br/>
 
