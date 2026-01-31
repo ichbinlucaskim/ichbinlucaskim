@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/NeMo_Guardrails-76B900?style=flat&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neo4j_GraphRAG-45818C?style=flat&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-FF4B4B?style=flat&logo=readme&logoColor=white"/>
 
 ### 🚀 High-Performance Eval & Infra
 <img src="https://img.shields.io/badge/Ragas-FF6F61?style=flat&logo=github&logoColor=white"/>
