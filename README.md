@@ -9,7 +9,7 @@
 <br/>
 
 ## 🤖 Engineering Philosophy
-> I bridge the gap between AI reasoning and production reality by building reliable, high‑throughput agentic workflows (LangGraph, NeMo Guardrails, Ragas) that plan, use tools, and solve real problems at scale.
+> I bridge the gap between AI reasoning and production reality by building reliable, high‑throughput agentic workflows (NeMo Guardrails, AutoGen, Ragas) that plan, use tools, and solve real problems at scale.
 
 <br/>
 
