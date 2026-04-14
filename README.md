@@ -8,13 +8,13 @@
 
 <br/>
 
-## 🔌 Engineering Philosophy
+## Engineering Philosophy
 
 > I build the **nervous system of multi-agent architectures** — standardizing tool exposure via MCP, coordinating autonomous agents with A2A, and wiring end-to-end pipelines through ADK. Protocol design is the difference between agents that demo well and agents that run reliably at scale.
 
 <br/>
 
-## 🧩 Agent Protocols & Interoperability
+## Agent Protocols & Interoperability
 
 <div align="center">
 
@@ -29,23 +29,23 @@
 
 <br/>
 
-## 🛠️ Full Stack for Production Agents
+## Full Stack for Production Agents
 
 <div align="center">
 
-### 🧠 Reasoning & Orchestration
+### Reasoning & Orchestration
 
 <img src="https://img.shields.io/badge/NeMo_Guardrails-76B900?style=flat&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tool_Permissioning-2E7D32?style=flat&logo=shield&logoColor=white"/>
 <img src="https://img.shields.io/badge/Event_Driven_Architecture-263238?style=flat&logo=events&logoColor=white"/>
 
-### 🔍 Evaluation & Reliability
+### Evaluation & Reliability
 
 <img src="https://img.shields.io/badge/Ragas_Evaluation-D32F2F?style=flat&logo=testing&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adversarial_Testing-424242?style=flat&logo=security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arize_Phoenix_(OTel)-000000?style=flat&logo=opentelemetry&logoColor=white"/>
 
-### ⚡ Infrastructure
+### Infrastructure
 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black"/>
 <img src="https://img.shields.io/badge/Go_(gRPC)-00ADD8?style=flat&logo=go&logoColor=white"/>
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
-### 🧠 Memory & Retrieval
+### Memory & Retrieval
 
 <img src="https://img.shields.io/badge/Neo4j_GraphRAG-1B5E20?style=flat&logo=neo4j&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vector_Search_(Pinecone/Chroma)-4A148C?style=flat&logo=database&logoColor=white"/>
@@ -62,7 +62,7 @@
 
 <br/>
 
-## 🚧 Currently Working On
+## Currently Working On
 
 - MCP server patterns for stateful, long-running tool contexts
 - A2A trust & authorization models across heterogeneous agent runtimes
