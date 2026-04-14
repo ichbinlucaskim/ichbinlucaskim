@@ -2,7 +2,7 @@
   <h1>Hi, I'm Lucas</h1>
   <h3>Agent Protocol Engineer</h3>
   <p>
-    <em>I speak fluent agent — designing the communication layer that makes multi-agent systems actually work in production.</em>
+    <em>Designing the communication layer that makes multi-agent systems actually work in production.</em>
   </p>
 </div>
 
