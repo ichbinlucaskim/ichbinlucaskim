@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi, I'm Lucas</h1>
   <h3>ML Engineer — Architecture, Engineering & Construction</h3>
   <p>
     <em>Building the intelligence layer for the built environment.</em>
@@ -7,10 +6,8 @@
 </div>
 <br/>
 
-## Engineering Philosophy
-> I build **ML systems for the built environment** — where geometry is hard, data is proprietary, and the problems are still unsolved. BIM automation, spatial reasoning, and generative design aren't demos. They're production constraints I work inside every day.
+---
 
-<br/>
 
 <div align="center">
 
