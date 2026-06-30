@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/IFC_Schema-2E7D32?style=flat&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative_Design-6A1B9A?style=flat&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Floor_Plan_Generation-4A148C?style=flat&logo=floorplanner&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spatial_Reasoning-263238?style=flat&logo=data&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Spatial_Reasoning-263238?style=flat&logo=data&logoColor=white"/> -->
 
 ### Modeling & Research
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
