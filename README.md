@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>ML Engineer — Architecture, Engineering & Construction</h3>
+  <h3>ML Engineer</h3>
   <p>
-    <em>Building the intelligence layer for the built environment.</em>
+    <em>Building the intelligence layer</em>
   </p>
 </div>
 <br/>
