@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Link_Prediction-1565C0?style=flat&logo=graph&logoColor=white"/>
 <img src="https://img.shields.io/badge/Model_Benchmarking_&_Evaluation-455A64?style=flat&logo=testcafe&logoColor=white"/>
 
-#### Data & Training Infrastructure
+#### Infrastructure
 <img src="https://img.shields.io/badge/GPU_Training_(SSH_/_CUDA)-76B900?style=flat&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vector_DB_(Chroma,_Pinecone)-003087?style=flat&logo=database&logoColor=white"/>
