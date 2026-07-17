@@ -1,33 +1,48 @@
 <div align="center">
-  <h3>ML Engineer</h3>
+  <h3>Graph ML Engineer</h3>
   <p>
-    <em>Building the intelligence layer</em>
+    <em>Understands the world through graph structure</em>
   </p>
 </div>
 <br/>
 
 ---
 
-
 <div align="center">
 
-### AEC Domain & Tooling
-<div align="center">
-<img src="https://img.shields.io/badge/BIM_(Building_Information_Modeling)-1565C0?style=flat&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/IFC_Schema-2E7D32?style=flat&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_Design-6A1B9A?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Floor_Plan_Generation-4A148C?style=flat&logo=floorplanner&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Spatial_Reasoning-263238?style=flat&logo=data&logoColor=white"/> -->
+## <img src="https://img.shields.io/badge/Core-000000?style=for-the-badge&labelColor=000000"/>
 
-### Modeling & Research
+#### Graph ML
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-FF6F00?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Synthetic_Data_Pipelines-003087?style=flat&logo=data&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proprietary_Dataset_Design-1B5E20?style=flat&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Link_Prediction-1565C0?style=flat&logo=graph&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model_Benchmarking_&_Evaluation-455A64?style=flat&logo=testcafe&logoColor=white"/>
 
-### Infrastructure
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+#### Data & Training Infrastructure
+<img src="https://img.shields.io/badge/GPU_Training_(SSH_/_CUDA)-76B900?style=flat&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_DB_(Chroma,_Pinecone)-003087?style=flat&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/Domains-000000?style=for-the-badge&labelColor=000000"/>
+
+#### Agentic AI
+<img src="https://img.shields.io/badge/MCP_(Tool_Routing)-000000?style=flat&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-412991?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Semantic_Routing-6A1B9A?style=flat&logo=diagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tool_Graphs-2E7D32?style=flat&logo=graph&logoColor=white"/>
+
+#### Spatial & AEC
+<img src="https://img.shields.io/badge/BIM_(Building_Information_Modeling)-1565C0?style=flat&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/IFC_Schema-2E7D32?style=flat&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computational_Geometry-00695C?style=flat&logo=shapely&logoColor=white"/>
+<img src="https://img.shields.io/badge/Floor_Plan_→_IFC-4A148C?style=flat&logo=floorplanner&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSM_/_Geospatial-7CB342?style=flat&logo=openstreetmap&logoColor=white"/>
+
 </div>
 <br/>
