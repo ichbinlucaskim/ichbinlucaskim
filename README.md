@@ -20,11 +20,12 @@
 
 #### Data & Training Infrastructure
 <img src="https://img.shields.io/badge/GPU_Training_(SSH_/_CUDA)-76B900?style=flat&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vector_DB_(Chroma,_Pinecone)-003087?style=flat&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+
 
 <br/>
 
@@ -37,9 +38,9 @@
 <img src="https://img.shields.io/badge/Tool_Graphs-2E7D32?style=flat&logo=graph&logoColor=white"/>
 
 #### Spatial & AEC
+<img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/BIM_(Building_Information_Modeling)-1565C0?style=flat&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/IFC_Schema-2E7D32?style=flat&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Floor_Plan_→_IFC-4A148C?style=flat&logo=floorplanner&logoColor=white"/>
 <img src="https://img.shields.io/badge/OSM_/_Geospatial-7CB342?style=flat&logo=openstreetmap&logoColor=white"/>
 
