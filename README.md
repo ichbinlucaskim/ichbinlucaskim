@@ -14,7 +14,6 @@
 
 #### Graph ML
 <img src="https://img.shields.io/badge/Graph_Neural_Networks-FF6F00?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Link_Prediction-1565C0?style=flat&logo=graph&logoColor=white"/>
 <img src="https://img.shields.io/badge/Model_Benchmarking_&_Evaluation-455A64?style=flat&logo=testcafe&logoColor=white"/>
@@ -40,7 +39,7 @@
 #### Spatial & AEC
 <img src="https://img.shields.io/badge/BIM_(Building_Information_Modeling)-1565C0?style=flat&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/IFC_Schema-2E7D32?style=flat&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computational_Geometry-00695C?style=flat&logo=shapely&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Floor_Plan_→_IFC-4A148C?style=flat&logo=floorplanner&logoColor=white"/>
 <img src="https://img.shields.io/badge/OSM_/_Geospatial-7CB342?style=flat&logo=openstreetmap&logoColor=white"/>
 
