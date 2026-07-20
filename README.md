@@ -24,11 +24,12 @@
 <img src="https://img.shields.io/badge/Polyrepo_CI-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/ruff-D7FF64?style=flat&logo=ruff&logoColor=black"/>
+<img src="https://img.shields.io/badge/mypy-2A6DB2?style=flat&logo=python&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/Regression_Testing-455A64?style=flat&logo=testcafe&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON_Schema_Contracts-1565C0?style=flat&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/Architecture_Decision_Records-37474F?style=flat&logo=readthedocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/ruff-D7FF64?style=flat&logo=ruff&logoColor=black"/>
-<img src="https://img.shields.io/badge/mypy-2A6DB2?style=flat&logo=python&logoColor=white"/>
 
 #### Machine Learning
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
