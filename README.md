@@ -1,14 +1,4 @@
 <div align="center">
-  <h3>Agent Systems</h3>
-  <p>
-    <em>Design that holds</em>
-  </p>
-</div>
-<br/>
-
----
-
-<div align="center">
 
 <br/>
 
