@@ -10,6 +10,18 @@
 
 <div align="center">
 
+<br/>
+
+## <img src="https://img.shields.io/badge/Domains-000000?style=for-the-badge&labelColor=000000"/>
+
+#### Agentic AI
+<img src="https://img.shields.io/badge/MCP_(Tool_Routing)-000000?style=flat&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-412991?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Semantic_Routing-6A1B9A?style=flat&logo=diagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tool_Graphs-2E7D32?style=flat&logo=graph&logoColor=white"/>
+
+<br/>
+
 ## <img src="https://img.shields.io/badge/Core-000000?style=for-the-badge&labelColor=000000"/>
 
 #### Machine Learning
@@ -37,15 +49,6 @@
 <img src="https://img.shields.io/badge/JSON_Schema_Contracts-1565C0?style=flat&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/Architecture_Decision_Records-37474F?style=flat&logo=readthedocs&logoColor=white"/>
 
-<br/>
-
-## <img src="https://img.shields.io/badge/Domains-000000?style=for-the-badge&labelColor=000000"/>
-
-#### Agentic AI
-<img src="https://img.shields.io/badge/MCP_(Tool_Routing)-000000?style=flat&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-412991?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Semantic_Routing-6A1B9A?style=flat&logo=diagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tool_Graphs-2E7D32?style=flat&logo=graph&logoColor=white"/>
 
 </div>
 <br/>
