@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Software Engineer · ML Systems</h3>
+  <h3>Agent Systems</h3>
   <p>
     <em>Design that holds</em>
   </p>
